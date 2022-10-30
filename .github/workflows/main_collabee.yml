@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'collabee'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE186DCEFEC346E3A30E0CD3C951285B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44572A1CB40B42EBA85893307CEC1B7F }}
           package: .
